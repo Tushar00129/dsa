@@ -1,0 +1,8 @@
+rate at which the time taken increases wrt input size .it can vary with diff system as well is called time complexity.
+big (oh) worst and upper bound complexity.
+outer loop = no. of rows and inner loop= no. of columns
+j=n-i+1 for opp dir
+infinite recursion called stack overflow that is one after another
+yet to be completed once is called stack space 
+
+
